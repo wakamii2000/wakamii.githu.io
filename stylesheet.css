@@ -66,6 +66,10 @@ li {
   margin-top: 30px;
 }
 
+.content-item span {
+  color: crimson;
+ }
+
 .footer{
   background-color: #60f860;
   color: #fff;
